@@ -9,7 +9,7 @@ Instructions
 ============
 
 You must checkout Steve Dekorte's basekit in the same directory as ooc-basekit
-in order to use it.
+in order to use it (check it out on github)
 Then add it to your sourcepath, e.g. compile with
 
 ooc -sourcepath=.:../ooc-basekit/ myTest.ooc
