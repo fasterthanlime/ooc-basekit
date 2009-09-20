@@ -4,3 +4,14 @@ basekit provides a common ground for high level language implementation.
 it contains a reasonable implementation of collections,
 sequences (UTF-8, UCS-2/UCS-4 string handling), and portable versions of
 often-used system functions.
+
+Instructions
+============
+
+You must checkout Steve Dekorte's basekit in the same directory as ooc-basekit
+in order to use it.
+Then add it to your sourcepath, e.g. compile with
+
+ooc -sourcepath=.:../ooc-basekit/ myTest.ooc
+
+(if your project's folder is in the same folder as ooc-basekit)
