@@ -1,0 +1,7 @@
+Name: basekit
+Description: Basic data structures, String/Sequence handling (UTF-8, UCS2/UCS4, etc.) by Steve Dekorte
+
+Include-Paths: ../basekit/_build/headers
+Lib-Paths: ../basekit/_build/lib
+
+Libs: -lbasekit

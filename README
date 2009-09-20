@@ -1,0 +1,6 @@
+Amos Wenger's ooc bindings for Steve Dekorte's libbasekit
+
+basekit provides a common ground for high level language implementation.
+it contains a reasonable implementation of collections,
+sequences (UTF-8, UCS-2/UCS-4 string handling), and portable versions of
+often-used system functions.
