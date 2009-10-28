@@ -5,3 +5,5 @@ Include-Paths: ../basekit/_build/headers
 Lib-Paths: ../basekit/_build/lib
 
 Libs: -lbasekit
+
+SourcePath: .
